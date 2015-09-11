@@ -8,8 +8,6 @@ setup(
     name='django-database-view',
     version='0.1.2',
     packages=['dbview'],
-    setup_requires=['setuptools-markdown'],
-    long_description_markdown_filename='README.md',
     include_package_data=True,
     license='MIT',
     description='A simple Django app to handle database views.',
